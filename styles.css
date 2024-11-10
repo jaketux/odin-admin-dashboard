@@ -1,7 +1,9 @@
 body{
     background-color: black;
-    width:60%;
-    margin:0 auto;
+    width:75%;
+    margin:auto;
+
+    
 }
 
 :root{
@@ -31,7 +33,6 @@ body{
     grid-template-areas: 
     'sidebar header'
     'sidebar main';
-
 }
 
 .sidebar{
